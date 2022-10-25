@@ -1,2 +1,3 @@
 # superstore_analysis
-analysis on superstore data
+
+## About this project
